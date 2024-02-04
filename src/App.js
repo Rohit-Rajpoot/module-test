@@ -5,7 +5,7 @@ import "../src/App.css";
 import Home from "./Pages/Home";
 import PostDetail from "./Pages/PostDetail";
 import Navbar from "./Components/Navbar";
-import UserDetail from "./Pages/UserDetail";
+import UserDetail from "./Pages/Userdetail";
 import Notification from "./Pages/Notification";
 import Bookmark from "./Pages/Bookmark";
 import Footer from "./Components/Footer";
